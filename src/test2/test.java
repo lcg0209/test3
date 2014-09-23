@@ -5,5 +5,6 @@ public class test {
 		System.out.println("hello world");
 		myClass obj = new myClass("test");
 		obj.print();
+		baboo obj2 = new baboo();
 	}
 }
